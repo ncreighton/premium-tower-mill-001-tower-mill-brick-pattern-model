@@ -1,0 +1,2 @@
+# premium-tower-mill-001-tower-mill-brick-pattern-model
+Tired of manually sketching brick patterns for your tower mill model, only to realize the layout doesn't fit when you start building? This Notion template eliminates guesswork and gives you a repeatable system to design, test, and finalize your pattern before you lay a single brick.  The Tower Mill Brick Pattern Model Guide transforms your chaotic
